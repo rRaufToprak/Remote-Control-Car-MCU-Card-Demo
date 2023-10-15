@@ -1,0 +1,14 @@
+Id;Designator;Package;Quantity;Designation;Supplier and ref
+1;C10,C9,C8;C_0805_2012Metric;3;22uF;
+2;C4,C5;C_0805_2012Metric;2;100nF;
+3;C2,C3;C_0805_2012Metric;2;10uF;
+4;U1;Converter_DCDC_Artesyn_ATA_SMD;1;ATA00BB18S-L;
+5;R3,R1;R_0805_2012Metric;2;1M;
+6;L1;L_Wuerth_MAPI-3010;1;1uH;
+7;C7;C_0805_2012Metric;1;10pF;
+8;J1;PinSocket_1x02_P2.54mm_Vertical;1;VBAT;
+9;U2;Texas_S-PWSON-N10_ThermalVias;1;TPS63061;
+10;C1;C_1206_3216Metric;1;2.2uF;
+11;C6;C_1206_3216Metric;1;100nF;
+12;J2;PinSocket_1x02_P2.54mm_Vertical;1;5V;
+13;R2;R_0805_2012Metric;1;111k;
